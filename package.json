@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "clsx": "^2.1.1",
+    "framer-motion": "^11.3.17"
+  },
+  "devDependencies": {
+    "@svgr/webpack": "^8.1.0"
+  }
+}
